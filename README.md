@@ -34,7 +34,7 @@ Feel free to explore and contribute to my repositories! 🌟
 - 🐦 X: [@sinapizadeh1](https://x.com/sinapizadeh1)
 
 ### 🔗 Follow me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/sinapizadeh)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/sinapirzadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sinapizadeh)
 
 ---
