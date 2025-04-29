@@ -38,7 +38,7 @@ Here are some of my featured projects:
 
 ## 📬 Contact Me
 
-- 📧 Email: [sinapirzadeh1@gmail.com](mailto:sinapirzadeh1@gmail.com)
+- 📧 Email: [pirzadehroot@gmail.com](mailto:pirzadehroot@gmail.com)
 
 ---
 
