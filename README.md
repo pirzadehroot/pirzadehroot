@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Sina Pizadeh!
 
-- [my site](https://sinapirzadeh.ir)  
+- My Personal site [sinapirzadeh.ir](https://sinapirzadeh.ir)  
 
 ## 🚀 Skills
 
