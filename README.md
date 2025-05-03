@@ -16,7 +16,5 @@
 
 - 📧 Email: [pirzadehroot@gmail.com](mailto:pirzadehroot@gmail.com)
 
--
-
 ## ✨ Let's build something amazing together!
 _"And God helps us..."_
