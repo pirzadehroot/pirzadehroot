@@ -10,8 +10,6 @@
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
--
-
 ## 📬 Contact Me
 
 - 📧 Email: [pirzadehroot@gmail.com](mailto:pirzadehroot@gmail.com)
