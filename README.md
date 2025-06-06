@@ -1,4 +1,3 @@
-hip destroy general giant section degree dress wolf case custom poverty sense glow zoo culture vast manual will post weasel peanut donkey clerk faith midnight
 # 👨‍💻 Hi, I'm Sina Pizadeh!
 
 - My Personal site [sinapirzadeh.ir](https://pir.liara.run)  
