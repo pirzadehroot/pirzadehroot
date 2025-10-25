@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Sina Pizadeh!
 
-- My Personal site [sinapirzadeh.ir](https://pir.liara.run)  
+- My Personal site [site🌚](https://pir.liara.run)  
 
 ## 🚀 Framework
 
@@ -13,6 +13,3 @@
 ## 📬 Contact Me
 
 - 📧 Email: [pirzadehroot@gmail.com](mailto:pirzadehroot@gmail.com)
-
-## ✨ Let's build something amazing together!
-_"And God helps us..."_
